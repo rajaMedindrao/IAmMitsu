@@ -1,0 +1,4 @@
+url: "https://your-name.github.io"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
